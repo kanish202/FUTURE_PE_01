@@ -1,0 +1,27 @@
+Act as a professional website copywriter and marketing strategist.
+
+Create complete website copy for a local business.
+
+Business Name: King Tech
+Business Type: Computer Repair Shop
+Location: Madurai
+Target Customers: Students, Office Workers, Gamers
+
+Generate:
+
+1. Homepage Hero Section
+   - Headline
+   - Subheadline
+   - Call To Action
+
+2. About Us Section
+
+3. Services Section
+
+4. Why Choose Us Section
+
+5. Contact Section
+
+6. Strong Call To Action
+
+Make it professional, persuasive, and customer-friendly.
