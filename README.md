@@ -12,12 +12,6 @@ AI Website Copy Generator for Local Businesses
 ## Objective
 Generate professional website content using AI.
 
-## Prompt Used
-[Paste your prompt here]
-
-## AI Output
-[Paste generated website content here]
-
 ## Skills Learned
 - Prompt Engineering
 - Website Copywriting
@@ -27,3 +21,4 @@ Generate professional website content using AI.
 ## Tools Used
 - ChatGPT
 - GitHub
+- Lovable
